@@ -1,0 +1,3 @@
+External pressure data: FTN Data via nflverse. Source: https://github.com/nflverse/nflverse-data/releases/tag/pbp_participation
+License: Creative Commons Attribution-ShareAlike 4.0 International, https://creativecommons.org/licenses/by-sa/4.0/
+Changes: linked to competition target records, filtered to rookie original-franchise targets, and aggregated into QB–TE rates and confidence intervals. No FTN endorsement is implied. Derived pressure tables are distributed under CC BY-SA 4.0. Other external sources retain their source-specific terms; see manifest URLs. Competition raw data are excluded.
