@@ -1,0 +1,155 @@
+[
+  {
+    "file": "draft_picks.csv",
+    "url": "https://github.com/nflverse/nflverse-data/releases/download/draft_picks/draft_picks.csv",
+    "bytes": 1661916,
+    "sha256": "cc35472c1b12b58ea9588e2174dfd92b3cd02cf6b4fc8d31cb9757a4ea3e5f9f",
+    "downloaded_utc": "2026-11-02T18:19:24.898912+00:00"
+  },
+  {
+    "file": "player_stats_2021.csv",
+    "url": "https://github.com/nflverse/nflverse-data/releases/download/player_stats/player_stats_2021.csv",
+    "bytes": 1712336,
+    "sha256": "41ff0aafb569b5d47836168bdd755a8dcac4581d40dc42efe2f7821a341e903a",
+    "downloaded_utc": "2026-11-02T18:19:25.052210+00:00"
+  },
+  {
+    "file": "player_stats_2022.csv",
+    "url": "https://github.com/nflverse/nflverse-data/releases/download/player_stats/player_stats_2022.csv",
+    "bytes": 1689929,
+    "sha256": "42f3a4da856546bd9606dde29eecf54e8dbbd6627264bbd8e153dd34ecd0e535",
+    "downloaded_utc": "2026-11-02T18:19:25.036428+00:00"
+  },
+  {
+    "file": "player_stats_2023.csv",
+    "url": "https://github.com/nflverse/nflverse-data/releases/download/player_stats/player_stats_2023.csv",
+    "bytes": 1695570,
+    "sha256": "fc731277c81c7ee25fb6af50cebd29a2adf3f8aadddeec1c485231aa9f98bdcc",
+    "downloaded_utc": "2026-11-02T18:19:25.117853+00:00"
+  },
+  {
+    "file": "player_stats_2024.csv",
+    "url": "https://github.com/nflverse/nflverse-data/releases/download/player_stats/player_stats_2024.csv",
+    "bytes": 1674023,
+    "sha256": "4f1598c9a6ba396a52e256762a0d9148abd22cdf856f26fc8825fa1d1dc49631",
+    "downloaded_utc": "2026-11-02T18:19:25.025293+00:00"
+  },
+  {
+    "file": "player_stats_2020.csv",
+    "url": "https://github.com/nflverse/nflverse-data/releases/download/player_stats/player_stats_2020.csv",
+    "bytes": 1636728,
+    "sha256": "44bfa428eae68eb45ee78fc6789e5409983e192606a75f678402cb0fe3a05ad5",
+    "downloaded_utc": "2026-11-02T18:19:25.341557+00:00"
+  },
+  {
+    "file": "player_stats_2019.csv",
+    "url": "https://github.com/nflverse/nflverse-data/releases/download/player_stats/player_stats_2019.csv",
+    "bytes": 1580008,
+    "sha256": "b1338e5f364cd385f75aecf15fec69be02d075f5545749ecb4bcbc351e09718a",
+    "downloaded_utc": "2026-11-02T18:19:25.456592+00:00"
+  },
+  {
+    "file": "roster_2019.csv",
+    "url": "https://github.com/nflverse/nflverse-data/releases/download/rosters/roster_2019.csv",
+    "bytes": 1001234,
+    "sha256": "b00259cfddf2146512569423275dc17e142d31ddb13bfba6b0b826c9d3d810da",
+    "downloaded_utc": "2026-11-02T18:19:25.431293+00:00"
+  },
+  {
+    "file": "roster_2020.csv",
+    "url": "https://github.com/nflverse/nflverse-data/releases/download/rosters/roster_2020.csv",
+    "bytes": 988000,
+    "sha256": "dcf25143db7b54ac488d042b6c24142340effced1d6c8599b2084a9f412b3ed2",
+    "downloaded_utc": "2026-11-02T18:19:25.552737+00:00"
+  },
+  {
+    "file": "roster_2021.csv",
+    "url": "https://github.com/nflverse/nflverse-data/releases/download/rosters/roster_2021.csv",
+    "bytes": 953822,
+    "sha256": "a95e57ebe1df25224a4d19ed43aaffc5c2097a8b369954178b8592537ff77d34",
+    "downloaded_utc": "2026-11-02T18:19:25.583114+00:00"
+  },
+  {
+    "file": "roster_2022.csv",
+    "url": "https://github.com/nflverse/nflverse-data/releases/download/rosters/roster_2022.csv",
+    "bytes": 980115,
+    "sha256": "864719595d14909c73bd14110adcdcfc304c6621de9ba34feafb83666fac43c9",
+    "downloaded_utc": "2026-11-02T18:19:26.258940+00:00"
+  },
+  {
+    "file": "roster_2023.csv",
+    "url": "https://github.com/nflverse/nflverse-data/releases/download/rosters/roster_2023.csv",
+    "bytes": 967354,
+    "sha256": "f98283e6ef420babc597092b5483109a4570f9b5f63b7bfcce69643290960b6c",
+    "downloaded_utc": "2026-11-02T18:19:25.810200+00:00"
+  },
+  {
+    "file": "roster_2024.csv",
+    "url": "https://github.com/nflverse/nflverse-data/releases/download/rosters/roster_2024.csv",
+    "bytes": 1005701,
+    "sha256": "97721aa9092edb15c1357f2dac359dba72f63c81cc0e69408c65c229c91f50c1",
+    "downloaded_utc": "2026-11-02T18:19:25.823120+00:00"
+  },
+  {
+    "file": "roster_2025.csv",
+    "url": "https://github.com/nflverse/nflverse-data/releases/download/rosters/roster_2025.csv",
+    "bytes": 1010039,
+    "sha256": "531ee5de386037bb17de3e3e3d50f7b4ed08789526bbaae9876fdd3dfb4d04ad",
+    "downloaded_utc": "2026-11-02T18:19:25.894621+00:00"
+  },
+  {
+    "file": "play_by_play_2023.csv.gz",
+    "url": "https://github.com/nflverse/nflverse-data/releases/download/pbp/play_by_play_2023.csv.gz",
+    "bytes": 19169807,
+    "sha256": "4649804ee0f0a40b41e51ec75a1ce921949d7fab5459213488656b92f78560e8",
+    "downloaded_utc": "2026-11-02T18:19:26.407113+00:00"
+  },
+  {
+    "file": "play_by_play_2024.csv.gz",
+    "url": "https://github.com/nflverse/nflverse-data/releases/download/pbp/play_by_play_2024.csv.gz",
+    "bytes": 19362351,
+    "sha256": "23370d5d10f8104d80d46a1fc5e61f4f6f5a3263fe96fe2dd629913cfcb08c06",
+    "downloaded_utc": "2026-11-02T18:19:26.954104+00:00"
+  },
+  {
+    "file": "play_by_play_2025.csv.gz",
+    "url": "https://github.com/nflverse/nflverse-data/releases/download/pbp/play_by_play_2025.csv.gz",
+    "bytes": 19105296,
+    "sha256": "2f135887790a013fd004e609e37096bb4816d5cc80b9f19122e1bad478961978",
+    "downloaded_utc": "2026-11-02T18:19:26.908905+00:00"
+  },
+  {
+    "file": "games.csv",
+    "url": "https://github.com/nflverse/nflverse-data/releases/download/schedules/games.csv",
+    "bytes": 2187844,
+    "sha256": "7bf3e1d9bcf0805fd0fdd1b95a5f016798a3705beebfea9240689c14a0270f8c",
+    "downloaded_utc": "2026-11-02T18:19:26.830019+00:00"
+  },
+  {
+    "file": "pbp_participation_2023.csv",
+    "url": "https://github.com/nflverse/nflverse-data/releases/download/pbp_participation/pbp_participation_2023.csv",
+    "bytes": 49967956,
+    "sha256": "ad01aeb4045ee19a4f086ff38b52b14c8f427d3401e529c3078a4545921650a9",
+    "attribution": "FTN Data via nflverse",
+    "license": "CC-BY-SA 4.0",
+    "downloaded_utc": "2026-11-02T18:20:19.237596+00:00"
+  },
+  {
+    "file": "pbp_participation_2024.csv",
+    "url": "https://github.com/nflverse/nflverse-data/releases/download/pbp_participation/pbp_participation_2024.csv",
+    "bytes": 49688308,
+    "sha256": "b1f436a98b2a7759eb4ed1181e072a35c2666f9aeb356a49c943d28d6be6b0b9",
+    "attribution": "FTN Data via nflverse",
+    "license": "CC-BY-SA 4.0",
+    "downloaded_utc": "2026-11-02T18:20:19.917703+00:00"
+  },
+  {
+    "file": "pbp_participation_2025.csv",
+    "url": "https://github.com/nflverse/nflverse-data/releases/download/pbp_participation/pbp_participation_2025.csv",
+    "bytes": 49094943,
+    "sha256": "59069adfee7b0f464befba8a5e8be331e523633cc6a7ab403d37bcbcdfbe66ac",
+    "attribution": "FTN Data via nflverse",
+    "license": "CC-BY-SA 4.0",
+    "downloaded_utc": "2026-11-02T18:20:18.247790+00:00"
+  }
+]
