@@ -1,0 +1,13 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+pymc
+arviz
+xarray
+h5netcdf
+joblib
+threadpoolctl
+ipython
